@@ -1,7 +1,8 @@
 # created by virtualenv automatically
 bin
 lib
-Demo.*
+Demo.txt.bin*
+testing
 c
 d
 huff*
